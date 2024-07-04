@@ -24,20 +24,20 @@ This project is a **Website Clone** created using Python. It allows you to clone
 
 1. Clone this repository to your local machine:
     ```sh
-    git clone https://github.com/your-username/website_clone.git
+    git clone https://github.com/sharatkvs/web_clone
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd website_clone
+    cd web_clone
     ```
 
 
 ## Usage
 
-1. Run the `clone_website.py` script:
+1. Run the `clone_site.py` script:
     ```sh
-    python clone_website.py <website_url>
+    python clone_site.py <website_url>
     ```
 
     Replace `<website_url>` with the URL of the website you want to clone.
@@ -46,7 +46,7 @@ This project is a **Website Clone** created using Python. It allows you to clone
 
 ## Customization
 
-You can modify the `clone_website.py` script to add more features or to customize the cloning process according to your needs.
+You can modify the `clone_site.py` script to add more features or to customize the cloning process according to your needs.
 
 ## Troubleshooting
 
